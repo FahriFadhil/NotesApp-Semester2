@@ -32,6 +32,3 @@ RPL IDN Learning, Source Code Project Notes App
 
 | <img src="/images/ss4.png"/> | <img src="/images/ss5.png"/> | <img src="/images/ss6.png"/> |
 | :--: | :--: | :--: |
-
-| <img src="/images/ss7.png"/> | <img src="/images/ss8.png"/> | <img src="/images/ss9.png"/> |
-| :--: | :--: | :--: |
