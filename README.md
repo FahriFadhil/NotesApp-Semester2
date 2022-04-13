@@ -1,4 +1,4 @@
-# NotesApp-Semester2
+# NotesApp
 RPL IDN Learning, Source Code Project Notes App
 
 ## Feature Used in this Project: 
@@ -26,7 +26,7 @@ RPL IDN Learning, Source Code Project Notes App
 - MVVM Architecture
 - ViewModel
 
-## This is the result of my learn
+## App Preview
 | <img src="/images/ss1.png"/> | <img src="/images/ss2.png"/> | <img src="/images/ss3.png"/> |
 | :--: | :--: | :--: |
 
